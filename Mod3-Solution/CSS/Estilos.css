@@ -1,0 +1,38 @@
+body{
+  background: #9E9AA6;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+#header-nav{
+  background: #3D3B40;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border-radius: 0;
+  border: 0;
+}
+a{
+  color: #fff;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  text-decoration: none;
+}
+.navbar>.container{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  color: #fff;
+  text-decoration: none;
+}
+.Menu{
+  background: #8B8BAA;
+  margin-top: 15px;
+}
+h2{
+  text-align: center;
+}
+@media (min-width: 992) {
+
+}
